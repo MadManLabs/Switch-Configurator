@@ -1,0 +1,1 @@
+{"ip":"192.168.1.19","user":"it6s","password":"it6s","secret":"it6s"}
